@@ -1,5 +1,5 @@
 'use strict'
-
+/*
 let dragons = [
   'cool dragon',
   'angry dragon',
@@ -10,3 +10,6 @@ let dragons = [
 for (let dragon of dragons) {
   console.log(dragon);
 }
+*/
+
+console.log("Hello World! ");
